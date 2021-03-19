@@ -5,6 +5,8 @@ https://streamable.com/rerfzr
 
 # Simple Configuration
 
+### Script Needs ESX
+
 ## EN:
 
 - configure the script from a config file super easily!
