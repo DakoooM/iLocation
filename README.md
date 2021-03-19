@@ -1,11 +1,11 @@
 # iLocation
 
+### Script Needs ESX
+
 ## Preview: 
 https://streamable.com/rerfzr
 
 ## Simple Configuration
-
-### Script Needs ESX
 
 ## EN:
 
