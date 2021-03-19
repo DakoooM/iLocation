@@ -3,7 +3,7 @@
 ## Preview: 
 https://streamable.com/rerfzr
 
-# Simple Configuration
+## Simple Configuration
 
 ### Script Needs ESX
 
